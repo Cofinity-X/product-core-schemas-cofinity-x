@@ -20,16 +20,12 @@
       "@protected": true,
       "id": "@id",
       "type": "@type",
-      "value": {
-        "@id": "ex:value",
-        "@type": "https://schema.org/Text"
-      },
-      "contract-template":{
+      "contractTemplate":{
         "@id": "ex:contract-template",
         "@type": "https://schema.org/Text"
       },
-      "contract-version":{
-        "@id": "ex:contract-version",
+      "contractVersion":{
+        "@id": "ex:contractVersion",
         "@type": "https://schema.org/Float"
       },
       "holderIdentifier": {
